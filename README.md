@@ -114,10 +114,19 @@ The backend communicates with the database using SQL queries and connection pool
 Add screenshots here:
 
 * Home Page
+  ![Home Page](screenshots/MyDoctor-Home.png)
+  
 * Doctors Page
+  ![Home Page](screenshots/MyDoctor-Doctors.png)
+  
 * Book Appointment
+  ![Home Page](screenshots/MyDoctor-BookAppoinment.png)
+  
 * My Appointments
+  ![Home Page](screenshots/MyDoctor-MyAppoinment.png)
+  
 * PostgreSQL Database
+  ![Home Page](screenshots/Database.png)
 
 ---
 
