@@ -135,7 +135,7 @@ Add screenshots here:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/MyDoctor.git
+git clone https://github.com/DinuliShamindi/mydoctor-doctor-appointment-system.git
 ```
 
 ### Install frontend dependencies
